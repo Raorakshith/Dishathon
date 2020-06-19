@@ -1,0 +1,188 @@
+{
+  "project_info": {
+    "project_number": "1022658585888",
+    "firebase_url": "https://otpmanager-23316.firebaseio.com",
+    "project_id": "otpmanager-23316",
+    "storage_bucket": "otpmanager-23316.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022658585888:android:8fb361ba5390f4c94da345",
+        "android_client_info": {
+          "package_name": "com.example.airhotspot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022658585888-1i85mqv63svbt245v9tlml6ko8b40seo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.airhotspot",
+            "certificate_hash": "0fdee664f07ffec5f7f36fb208280e818069f541"
+          }
+        },
+        {
+          "client_id": "1022658585888-4pqprsnq8lhqag0jb910b2u9pdu01num.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwvaehMFPKC4Ww1Y_PUht2pSmv4az2ghs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022658585888-4pqprsnq8lhqag0jb910b2u9pdu01num.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022658585888:android:088b6fd02d1dfb1f4da345",
+        "android_client_info": {
+          "package_name": "com.example.fitsytrainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022658585888-4pqprsnq8lhqag0jb910b2u9pdu01num.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwvaehMFPKC4Ww1Y_PUht2pSmv4az2ghs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022658585888-4pqprsnq8lhqag0jb910b2u9pdu01num.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022658585888:android:776ccae8c899ddc24da345",
+        "android_client_info": {
+          "package_name": "com.example.gradle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022658585888-sv91m0dvt4seiorrbo1nc6592hc4kgm5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gradle",
+            "certificate_hash": "0fdee664f07ffec5f7f36fb208280e818069f541"
+          }
+        },
+        {
+          "client_id": "1022658585888-4pqprsnq8lhqag0jb910b2u9pdu01num.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwvaehMFPKC4Ww1Y_PUht2pSmv4az2ghs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022658585888-4pqprsnq8lhqag0jb910b2u9pdu01num.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022658585888:android:ade66670c58678104da345",
+        "android_client_info": {
+          "package_name": "com.example.upload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022658585888-pb7aueo5ro4gng64ojdj5mrq7pvrmj6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.upload",
+            "certificate_hash": "661e5984ff401535b63973fe13c0267cbf520a9b"
+          }
+        },
+        {
+          "client_id": "1022658585888-4pqprsnq8lhqag0jb910b2u9pdu01num.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwvaehMFPKC4Ww1Y_PUht2pSmv4az2ghs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022658585888-4pqprsnq8lhqag0jb910b2u9pdu01num.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022658585888:android:73d07aaa47e299374da345",
+        "android_client_info": {
+          "package_name": "com.zerohour.zerohourhealthcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022658585888-if5b4ajdo078b8j0pkb83om7d5dgde85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zerohour.zerohourhealthcare",
+            "certificate_hash": "0fdee664f07ffec5f7f36fb208280e818069f541"
+          }
+        },
+        {
+          "client_id": "1022658585888-4pqprsnq8lhqag0jb910b2u9pdu01num.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwvaehMFPKC4Ww1Y_PUht2pSmv4az2ghs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022658585888-4pqprsnq8lhqag0jb910b2u9pdu01num.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
